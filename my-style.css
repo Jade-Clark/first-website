@@ -179,7 +179,7 @@ section h2 {
 
 /* Basic element css. Simple 2 column grid with the image attribute displaed on hover */
 .two-column-container {
-    display: inline-grid;
+    display: grid;
     grid-template-columns: 1fr 2fr;
     width: 100%;
     text-align: left;
